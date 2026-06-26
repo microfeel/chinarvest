@@ -8,19 +8,12 @@ export default function ProductCard({ product }: { product: Product }) {
       href={`/products/${product.category}/${product.slug}`}
       className="group block border border-gray-200 rounded-xl overflow-hidden hover:shadow-lg hover:border-green-300 transition-all"
     >
-      <div className="aspect-[4/3] bg-gray-100 flex items-center justify-center text-gray-400 text-sm">
-        {product.images.hero.endsWith("hero.jpg") ? (
-          <div className="text-center p-4">
-            <div className="text-3xl mb-2">🌾</div>
-            <span className="text-xs">Product Image</span>
-          </div>
-        ) : (
-          <img
-            src={product.images.hero}
-            alt={en.name}
-            className="w-full h-full object-cover"
-          />
-        )}
+      <div className="aspect-[4/3] bg-gray-100 overflow-hidden">
+        <img
+          src={product.images.hero}
+          alt={en.name}
+          className="w-full h-full object-cover"
+        />
       </div>
       <div className="p-4">
         <div className="text-xs text-gray-500 uppercase tracking-wide mb-1">

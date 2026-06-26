@@ -6,7 +6,10 @@
   "brand": "阴山优麦",
   "supplier": "阴山优麦",
   "origin": "内蒙古·乌兰察布",
-  "certifications": ["低GI认证", "有机认证"],
+  "certifications": [
+    "Low GI Certified",
+    "Organic"
+  ],
   "specs": {
     "weight": "300g (30g×10条)",
     "shelfLife": "12个月",
@@ -18,8 +21,14 @@
     "moq": "100盒",
     "fob": "TBD",
     "tiers": [
-      { "quantity": "100-500盒", "price": "TBD" },
-      { "quantity": "500+盒", "price": "TBD" }
+      {
+        "quantity": "100-500盒",
+        "price": "TBD"
+      },
+      {
+        "quantity": "500+盒",
+        "price": "TBD"
+      }
     ]
   },
   "export": {
@@ -28,14 +37,29 @@
   },
   "images": {
     "hero": "/images/products/low-gi-oats/hero.jpg",
-    "gallery": []
+    "gallery": [
+      {
+        "src": "/images/products/low-gi-oats/hero.jpg",
+        "alt": "YinShanYouMai Low GI Oatmeal"
+      },
+      {
+        "src": "/images/products/low-gi-oats/angle1.jpg",
+        "alt": "Oatmeal Packaging"
+      }
+    ]
   },
   "i18n": {
     "en": {
       "name": "YinShanYouMai Low GI Oatmeal 300g",
       "shortDescription": "Low glycemic index oatmeal from Inner Mongolia — diabetic-friendly, high fiber.",
       "description": "YinShanYouMai Low GI Oatmeal is the world's pioneering low-GI oat product, certified with a GI value below 55. Sourced from the Inner Mongolian plateau (latitude 42°N), one of the world's premier oat-growing regions. Each serving provides 80% NRV dietary fiber and 20.8g of β-glucan per box. Zero added sugar, zero sodium, zero cholesterol, zero trans fat. Instant preparation — just add hot water for a creamy, chewy oatmeal in seconds. Perfect for health-conscious consumers, diabetics, and fitness enthusiasts.",
-      "keywords": ["low gi oatmeal china", "chinese oats wholesale", "inner mongolia oats export", "diabetic friendly oatmeal bulk", "beta glucan oatmeal supplier"]
+      "keywords": [
+        "low gi oatmeal china",
+        "chinese oats wholesale",
+        "inner mongolia oats export",
+        "diabetic friendly oatmeal bulk",
+        "beta glucan oatmeal supplier"
+      ]
     }
   }
 }

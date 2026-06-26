@@ -18,24 +18,47 @@
     "moq": "1×20' FCL",
     "fob": "TBD",
     "tiers": [
-      { "quantity": "1×20' FCL", "price": "TBD" },
-      { "quantity": "1×40' FCL", "price": "TBD" }
+      {
+        "quantity": "1×20' FCL",
+        "price": "TBD"
+      },
+      {
+        "quantity": "1×40' FCL",
+        "price": "TBD"
+      }
     ]
   },
   "export": {
     "hasExportHistory": true,
-    "destinations": ["叙利亚"]
+    "destinations": [
+      "叙利亚"
+    ]
   },
   "images": {
     "hero": "/images/products/blanched-peanut/hero.jpg",
-    "gallery": []
+    "gallery": [
+      {
+        "src": "/images/products/blanched-peanut/hero.jpg",
+        "alt": "Blanched Peanuts - Export Grade"
+      },
+      {
+        "src": "/images/products/blanched-peanut/angle1.jpg",
+        "alt": "Blanched Peanuts Packaging"
+      }
+    ]
   },
   "i18n": {
     "en": {
       "name": "Chinese Blanched Peanut — Export Grade",
       "shortDescription": "Verified export product: 2,800 cartons shipped to Syria. Reliable supply chain with full export documentation.",
       "description": "Chinese Blanched Peanuts — verified export product with completed shipping record (2,800 cartons, Qingdao to Lattakia, Syria). Grade A quality with full traceability. Our blanched peanuts are carefully selected, mechanically blanched to remove the red skin, and sorted for uniform size and color. Suitable for food processing, snack manufacturing, and direct consumption. Complete export documentation available: phytosanitary certificate, insurance policy (All Risks), bill of lading, and packing list.",
-      "keywords": ["chinese blanched peanut", "peanut export china", "china peanut supplier", "blanched peanut wholesale", "qingdao peanut export"]
+      "keywords": [
+        "chinese blanched peanut",
+        "peanut export china",
+        "china peanut supplier",
+        "blanched peanut wholesale",
+        "qingdao peanut export"
+      ]
     }
   }
 }

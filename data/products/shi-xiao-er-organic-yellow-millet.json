@@ -6,7 +6,9 @@
   "brand": "世小二",
   "supplier": "谷雨谷物合作社",
   "origin": "黑龙江·绥化",
-  "certifications": ["有机认证"],
+  "certifications": [
+    "Organic"
+  ],
   "specs": {
     "weight": "2.5kg/袋",
     "shelfLife": "12个月",
@@ -18,8 +20,14 @@
     "moq": "200袋",
     "fob": "TBD",
     "tiers": [
-      { "quantity": "200-1000袋", "price": "TBD" },
-      { "quantity": "1000+袋", "price": "TBD" }
+      {
+        "quantity": "200-1000袋",
+        "price": "TBD"
+      },
+      {
+        "quantity": "1000+袋",
+        "price": "TBD"
+      }
     ]
   },
   "export": {
@@ -28,14 +36,29 @@
   },
   "images": {
     "hero": "/images/products/yellow-millet/hero.jpg",
-    "gallery": []
+    "gallery": [
+      {
+        "src": "/images/products/yellow-millet/hero.jpg",
+        "alt": "ShiXiaoEr Organic Yellow Millet"
+      },
+      {
+        "src": "/images/products/yellow-millet/angle1.jpg",
+        "alt": "Yellow Millet close up"
+      }
+    ]
   },
   "i18n": {
     "en": {
       "name": "ShiXiaoEr Organic Yellow Millet 2.5kg",
       "shortDescription": "Premium organic millet from Suihua, Heilongjiang — rich in nutrients, easy to digest.",
       "description": "ShiXiaoEr Organic Yellow Millet is grown in the organic black soil region of Suihua, Heilongjiang — one harvest per year with 180 days of slow growth. Each grain is golden yellow, plump, and aromatic. When cooked, it releases a thick layer of millet oil (rice cream), creating a smooth, nutrient-rich porridge. Certified organic with no pesticides or chemical fertilizers. Naturally rich in dietary fiber, B vitamins, and minerals. Excellent for baby food, convalescent diets, and everyday healthy meals. Vacuum-sealed for freshness.",
-      "keywords": ["organic millet china", "yellow millet wholesale", "heilongjiang millet export", "china organic grains supplier", "millet porridge bulk"]
+      "keywords": [
+        "organic millet china",
+        "yellow millet wholesale",
+        "heilongjiang millet export",
+        "china organic grains supplier",
+        "millet porridge bulk"
+      ]
     }
   }
 }

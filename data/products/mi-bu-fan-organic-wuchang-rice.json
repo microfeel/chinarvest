@@ -6,7 +6,11 @@
   "brand": "米不凡",
   "supplier": "谷雨谷物合作社",
   "origin": "黑龙江·五常",
-  "certifications": ["有机认证", "鹰标", "地标"],
+  "certifications": [
+    "Organic",
+    "Eagle Mark",
+    "Geographical Indication"
+  ],
   "specs": {
     "weight": "5kg/袋",
     "shelfLife": "12个月",
@@ -18,8 +22,14 @@
     "moq": "500袋",
     "fob": "TBD",
     "tiers": [
-      { "quantity": "500-2000袋", "price": "TBD" },
-      { "quantity": "2000+袋", "price": "TBD" }
+      {
+        "quantity": "500-2000袋",
+        "price": "TBD"
+      },
+      {
+        "quantity": "2000+袋",
+        "price": "TBD"
+      }
     ]
   },
   "export": {
@@ -28,14 +38,29 @@
   },
   "images": {
     "hero": "/images/products/wuchang-rice/hero.jpg",
-    "gallery": []
+    "gallery": [
+      {
+        "src": "/images/products/wuchang-rice/hero.jpg",
+        "alt": "MiBuFan Organic Wuchang Rice"
+      },
+      {
+        "src": "/images/products/wuchang-rice/angle1.jpg",
+        "alt": "Wuchang Rice Packaging Detail"
+      }
+    ]
   },
   "i18n": {
     "en": {
       "name": "MiBuFan Organic Wuchang Rice 5kg",
       "shortDescription": "Premium organic rice from Wuchang, Heilongjiang — China's finest rice-growing region.",
       "description": "Grown in the core production area of Wuchang, Heilongjiang province. Our organic Wuchang rice is triple-certified with the Eagle Mark, Geographical Indication, and Organic certification. Each grain is long,晶莹, and slightly translucent. When cooked, the rice is soft, fragrant, and slightly sweet with a pleasant chewiness. Vacuum-sealed packaging locks in freshness from the paddy field to your table. No polishing, no waxing, no additives — just pure, natural rice.",
-      "keywords": ["organic wuchang rice", "china premium rice wholesale", "five常 rice export", "heilongjiang rice supplier", "organic rice bulk"]
+      "keywords": [
+        "organic wuchang rice",
+        "china premium rice wholesale",
+        "five常 rice export",
+        "heilongjiang rice supplier",
+        "organic rice bulk"
+      ]
     }
   }
 }

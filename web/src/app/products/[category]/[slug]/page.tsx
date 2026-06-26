@@ -55,12 +55,13 @@ export default async function ProductPage({ params }: Props) {
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-        {/* Image placeholder */}
-        <div className="aspect-square bg-gray-100 rounded-xl flex items-center justify-center text-gray-400">
-          <div className="text-center">
-            <div className="text-5xl mb-3">🌾</div>
-            <p className="text-sm">Product Image</p>
-          </div>
+        {/* Image */}
+        <div className="aspect-square bg-gray-100 rounded-xl overflow-hidden">
+          <img
+            src={p.images.hero}
+            alt={en.name}
+            className="w-full h-full object-cover"
+          />
         </div>
 
         {/* Details */}
