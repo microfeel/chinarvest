@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+  --color-brand-50: #f0f9f0;
+  --color-brand-100: #daf0da;
+  --color-brand-200: #b8e2b8;
+  --color-brand-300: #84cb84;
+  --color-brand-400: #4daf4d;
+  --color-brand-500: #2d8f2d;
+  --color-brand-600: #1f721f;
+  --color-brand-700: #1a5b1a;
+  --color-brand-800: #184818;
+  --color-brand-900: #143b14;
+  --color-brand-950: #082108;
+}
+
+html {
+  scroll-behavior: smooth;
+}

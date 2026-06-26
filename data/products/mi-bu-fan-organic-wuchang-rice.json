@@ -1,0 +1,41 @@
+{
+  "id": "mi-bu-fan-organic-wuchang-rice",
+  "slug": "organic-wuchang-rice-5kg",
+  "category": "rice",
+  "subCategory": "wuchang-rice",
+  "brand": "米不凡",
+  "supplier": "谷雨谷物合作社",
+  "origin": "黑龙江·五常",
+  "certifications": ["有机认证", "鹰标", "地标"],
+  "specs": {
+    "weight": "5kg/袋",
+    "shelfLife": "12个月",
+    "packaging": "真空包装",
+    "variety": "五常稻花香"
+  },
+  "pricing": {
+    "currency": "USD",
+    "moq": "500袋",
+    "fob": "TBD",
+    "tiers": [
+      { "quantity": "500-2000袋", "price": "TBD" },
+      { "quantity": "2000+袋", "price": "TBD" }
+    ]
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/wuchang-rice/hero.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "MiBuFan Organic Wuchang Rice 5kg",
+      "shortDescription": "Premium organic rice from Wuchang, Heilongjiang — China's finest rice-growing region.",
+      "description": "Grown in the core production area of Wuchang, Heilongjiang province. Our organic Wuchang rice is triple-certified with the Eagle Mark, Geographical Indication, and Organic certification. Each grain is long,晶莹, and slightly translucent. When cooked, the rice is soft, fragrant, and slightly sweet with a pleasant chewiness. Vacuum-sealed packaging locks in freshness from the paddy field to your table. No polishing, no waxing, no additives — just pure, natural rice.",
+      "keywords": ["organic wuchang rice", "china premium rice wholesale", "five常 rice export", "heilongjiang rice supplier", "organic rice bulk"]
+    }
+  }
+}

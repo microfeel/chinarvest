@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# AI search engines — fully open to product content
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: CCBot
+User-agent: PerplexityBot
+Allow: /products/
+Allow: /categories/
+Allow: /about/
+Allow: /faq/
+
+# Restrict contact info from AI agents
+Disallow: /contact
+
+Sitemap: https://chinarvest.com/sitemap.xml
