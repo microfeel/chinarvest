@@ -3,10 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "node ../../scripts/generate-static-files.js && next dev",
+    "build": "node ../../scripts/generate-static-files.js && next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prebuild": "node ../../scripts/generate-static-files.js"
   },
   "dependencies": {
     "next": "^15.5.19",

@@ -53,7 +53,7 @@ export default function HomePage() {
           {categories.map((cat) => (
             <Link
               key={cat.id}
-              href={`/products?category=${cat.id}`}
+              href={`/products#${cat.id}`}
               className="group block p-6 rounded-xl border border-gray-200 hover:border-green-300 hover:bg-green-50 transition-all"
             >
               <h3 className="font-semibold text-gray-900 group-hover:text-green-700">

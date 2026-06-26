@@ -1,11 +1,19 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getProductBySlug, getProductsByCategory } from "@/lib/data";
+import { getProductBySlug, getProductsByCategory, getAllProducts } from "@/lib/data";
 import type { Metadata } from "next";
 import siteConfig from "@/lib/site";
 
 interface Props {
   params: Promise<{ category: string; slug: string }>;
+}
+
+// Required for static export — tells Next.js which paths to pre-render
+export function generateStaticParams() {
+  return getAllProducts().map((p) => ({
+    category: p.category,
+    slug: p.slug,
+  }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -41,9 +49,7 @@ export default async function ProductPage({ params }: Props) {
         <span className="mx-2">/</span>
         <Link href="/products" className="hover:text-green-700">Products</Link>
         <span className="mx-2">/</span>
-        <Link href={`/products?category=${p.category}`} className="hover:text-green-700">
-          {p.category}
-        </Link>
+        <span className="text-gray-900 capitalize">{p.category}</span>
         <span className="mx-2">/</span>
         <span className="text-gray-900">{en.name}</span>
       </div>
