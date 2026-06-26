@@ -7,8 +7,8 @@ const fs = require("fs");
 const path = require("path");
 
 // Products are in ../../data/products/
-const dataDir = path.join(__dirname, "..", "..", "data", "products");
-const publicDir = path.join(__dirname, "..", "public");
+const dataDir = path.join(__dirname, "..", "data", "products");
+const publicDir = path.join(__dirname, "..", "web", "public");
 
 const BASE_URL = "https://chinarvest.com";
 
