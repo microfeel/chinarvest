@@ -35,6 +35,7 @@ const pages = [
   { url: "", priority: "1.0", freq: "weekly" },
   { url: "/products", priority: "0.9", freq: "weekly" },
   { url: "/about", priority: "0.7", freq: "monthly" },
+  { url: "/faq", priority: "0.8", freq: "monthly" },
   { url: "/contact", priority: "0.5", freq: "monthly" },
 ];
 

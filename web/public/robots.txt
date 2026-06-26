@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-# AI search engines — fully open to product content
+# AI search engines — fully open to product and FAQ content
 User-agent: GPTBot
 User-agent: Google-Extended
 User-agent: ClaudeBot

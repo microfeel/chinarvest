@@ -121,7 +121,24 @@ export default async function ProductPage({ params }: Props) {
         </div>
       </div>
 
-      {/* Schema.org JSON-LD */}
+      {/* Schema.org JSON-LD — BreadcrumbList (GEO) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: "Home", item: `${siteConfig.url}/` },
+              { "@type": "ListItem", position: 2, name: "Products", item: `${siteConfig.url}/products` },
+              { "@type": "ListItem", position: 3, name: p.category, item: `${siteConfig.url}/products` },
+              { "@type": "ListItem", position: 4, name: en.name, item: `${siteConfig.url}/products/${p.category}/${p.slug}` },
+            ],
+          }),
+        }}
+      />
+
+      {/* Schema.org JSON-LD — Product */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
