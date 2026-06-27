@@ -89,10 +89,6 @@ export default async function LocaleProductDetail({ params }: Props) {
                   </tr>
                 ))}
                 <tr className="border-b last:border-0">
-                  <td className="px-4 py-3 bg-gray-50 font-medium text-gray-700">MOQ</td>
-                  <td className="px-4 py-3 text-gray-600">{p.pricing.moq}</td>
-                </tr>
-                <tr className="border-b last:border-0">
                   <td className="px-4 py-3 bg-gray-50 font-medium text-gray-700">
                     {locale === "id" ? "Asal" : locale === "ar" ? "المنشأ" : "Origin"}
                   </td>

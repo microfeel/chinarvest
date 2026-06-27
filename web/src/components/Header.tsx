@@ -28,6 +28,9 @@ export default function Header({ currentLocale }: HeaderProps) {
             <Link href={`/${currentLocale}/faq`} className="hover:text-green-700 transition-colors">
               FAQ
             </Link>
+            <Link href={`/${currentLocale}/services`} className="hover:text-green-700 transition-colors">
+              Services
+            </Link>
             <Link href={`/${currentLocale}/contact`} className="hover:text-green-700 transition-colors">
               Contact
             </Link>

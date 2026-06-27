@@ -5,12 +5,6 @@ export interface ProductI18n {
   keywords: string[];
 }
 
-export interface ProductPricing {
-  currency: string;
-  moq: string;
-  fob?: string;
-  tiers: { quantity: string; price: string }[];
-}
 
 export interface ProductImage {
   src: string;
@@ -27,7 +21,6 @@ export interface Product {
   origin: string;
   certifications: string[];
   specs: Record<string, string>;
-  pricing: ProductPricing;
   export: {
     hasExportHistory: boolean;
     destinations: string[];

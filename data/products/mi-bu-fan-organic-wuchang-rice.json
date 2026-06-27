@@ -17,21 +17,6 @@
     "packaging": "Vacuum sealed",
     "variety": "Wuchang WSD Rice"
   },
-  "pricing": {
-    "currency": "USD",
-    "moq": "500袋",
-    "fob": "TBD",
-    "tiers": [
-      {
-        "quantity": "500-2000袋",
-        "price": "TBD"
-      },
-      {
-        "quantity": "2000+袋",
-        "price": "TBD"
-      }
-    ]
-  },
   "export": {
     "hasExportHistory": false,
     "destinations": []

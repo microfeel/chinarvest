@@ -16,21 +16,6 @@
     "packaging": "Individual sachets/box",
     "feature": "Low GI, GI value &lt;55"
   },
-  "pricing": {
-    "currency": "USD",
-    "moq": "100盒",
-    "fob": "TBD",
-    "tiers": [
-      {
-        "quantity": "100-500盒",
-        "price": "TBD"
-      },
-      {
-        "quantity": "500+盒",
-        "price": "TBD"
-      }
-    ]
-  },
   "export": {
     "hasExportHistory": false,
     "destinations": []

@@ -32,7 +32,7 @@ for (const p of products) {
 
 // Generate sitemap — include all 3 locales
 const staticPages = [
-  "", "products", "about", "faq", "contact",
+  "", "products", "about", "faq", "contact", "services",
 ];
 
 const pages = [];

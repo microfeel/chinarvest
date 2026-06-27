@@ -15,21 +15,6 @@
     "packaging": "Vacuum sealed bag",
     "variety": "2025 New Crop"
   },
-  "pricing": {
-    "currency": "USD",
-    "moq": "200袋",
-    "fob": "TBD",
-    "tiers": [
-      {
-        "quantity": "200-1000袋",
-        "price": "TBD"
-      },
-      {
-        "quantity": "1000+袋",
-        "price": "TBD"
-      }
-    ]
-  },
   "export": {
     "hasExportHistory": false,
     "destinations": []

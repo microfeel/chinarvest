@@ -13,21 +13,6 @@
     "packaging": "Carton",
     "grade": "Export Grade"
   },
-  "pricing": {
-    "currency": "USD",
-    "moq": "1×20' FCL",
-    "fob": "TBD",
-    "tiers": [
-      {
-        "quantity": "1×20' FCL",
-        "price": "TBD"
-      },
-      {
-        "quantity": "1×40' FCL",
-        "price": "TBD"
-      }
-    ]
-  },
   "export": {
     "hasExportHistory": true,
     "destinations": [
