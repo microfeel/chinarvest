@@ -3,17 +3,17 @@
   "slug": "organic-yellow-millet-2.5kg",
   "category": "rice",
   "subCategory": "millet",
-  "brand": "世小二",
-  "supplier": "谷雨谷物合作社",
-  "origin": "黑龙江·绥化",
+  "brand": "ShiXiaoEr",
+  "supplier": "Guyu Grain Cooperative",
+  "origin": "Heilongjiang, Suihua",
   "certifications": [
     "Organic"
   ],
   "specs": {
-    "weight": "2.5kg/袋",
-    "shelfLife": "12个月",
-    "packaging": "真空袋装",
-    "variety": "2025年新米"
+    "weight": "2.5kg/bag",
+    "shelfLife": "12 months",
+    "packaging": "Vacuum sealed bag",
+    "variety": "2025 New Crop"
   },
   "pricing": {
     "currency": "USD",
@@ -58,6 +58,30 @@
         "heilongjiang millet export",
         "china organic grains supplier",
         "millet porridge bulk"
+      ]
+    },
+    "id": {
+      "name": "ShiXiaoEr Jawawut Kuning Organik 2.5kg",
+      "shortDescription": "Jawawut organik premium dari Suihua, Heilongjiang — kaya nutrisi, mudah dicerna.",
+      "description": "ShiXiaoEr Jawawut Kuning Organik ditanam di wilayah tanah hitam organik Suihua, Heilongjiang — satu kali panen per tahun dengan pertumbuhan lambat 180 hari. Setiap butir berwarna kuning keemasan, montok, dan aromatik. Saat dimasak, menghasilkan lapisan minyak jawawut (krim beras) yang kental, menciptakan bubur yang lembut dan kaya nutrisi. Bersertifikasi organik tanpa pestisida atau pupuk kimia. Kaya serat pangan, vitamin B, dan mineral. Kemasan vakum untuk kesegaran.",
+      "keywords": [
+        "jawawut organik china",
+        "jawawut kuning grosir",
+        "ekspor jawawut heilongjiang",
+        "supplier biji-bijian organik china",
+        "bubur jawawut curah"
+      ]
+    },
+    "ar": {
+      "name": "ShiXiaoEr دخن أصفر عضوي 2.5 كجم",
+      "shortDescription": "دخن عضوي فاخر من سويهوا، هيلونغجيانغ — غني بالمغذيات، سهل الهضم.",
+      "description": "دخن أصفر عضوي يزرع في منطقة التربة السوداء العضوية في سويهوا، هيلونغجيانغ — حصاد واحد سنوياً مع نمو بطيء لمدة 180 يوماً. كل حبة ذهبية صفراء، ممتلئة، وعطرية. عند الطهي، تنتج طبقة سميكة من زيت الدخن (كريم الأرز)، مما يخلق عصيدة ناعمة غنية بالمغذيات. معتمد عضوي بدون مبيدات أو أسمدة كيميائية. غني بالألياف الغذائية وفيتامينات ب والمعادن. تعبئة مفرغة للحفاظ على النضارة.",
+      "keywords": [
+        "دخن عضوي صيني",
+        "دخن أصفر بالجملة",
+        "تصدير دخن هيلونغجيانغ",
+        "مورد حبوب عضوية الصين",
+        "عصيدة دخن بالجملة"
       ]
     }
   }

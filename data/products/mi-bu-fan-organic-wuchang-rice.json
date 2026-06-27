@@ -3,19 +3,19 @@
   "slug": "organic-wuchang-rice-5kg",
   "category": "rice",
   "subCategory": "wuchang-rice",
-  "brand": "米不凡",
-  "supplier": "谷雨谷物合作社",
-  "origin": "黑龙江·五常",
+  "brand": "MiBuFan",
+  "supplier": "Guyu Grain Cooperative",
+  "origin": "Heilongjiang, Wuchang",
   "certifications": [
     "Organic",
     "Eagle Mark",
     "Geographical Indication"
   ],
   "specs": {
-    "weight": "5kg/袋",
-    "shelfLife": "12个月",
-    "packaging": "真空包装",
-    "variety": "五常稻花香"
+    "weight": "5kg/bag",
+    "shelfLife": "12 months",
+    "packaging": "Vacuum sealed",
+    "variety": "Wuchang WSD Rice"
   },
   "pricing": {
     "currency": "USD",
@@ -60,6 +60,30 @@
         "five常 rice export",
         "heilongjiang rice supplier",
         "organic rice bulk"
+      ]
+    },
+    "id": {
+      "name": "MiBuFan Beras Organik Wuchang 5kg",
+      "shortDescription": "Beras organik premium dari Wuchang, Heilongjiang — wilayah penghasil beras terbaik China.",
+      "description": "Ditanam di area produksi inti Wuchang, provinsi Heilongjiang. Beras organik Wuchang kami bersertifikasi tiga kali lipat dengan Eagle Mark, Indikasi Geografis, dan sertifikasi Organik. Setiap butir beras panjang, bening, dan sedikit transparan. Saat dimasak, berasnya lembut, harum, dan sedikit manis dengan kenikmatan yang menyenangkan. Kemasan vakum mengunci kesegaran dari sawah hingga meja Anda. Tanpa pemolesan, tanpa pelapisan, tanpa bahan tambahan — beras alami murni.",
+      "keywords": [
+        "beras wuchang organik",
+        "beras premium china grosir",
+        "beras lima常 ekspor",
+        "supplier beras heilongjiang",
+        "beras organik curah"
+      ]
+    },
+    "ar": {
+      "name": "MiBuFan أرز ووتشانغ العضوي 5 كجم",
+      "shortDescription": "أرز عضوي فاخر من ووتشانغ، هيلونغجيانغ — أفضل منطقة لإنتاج الأرز في الصين.",
+      "description": "يزرع في منطقة الإنتاج الأساسية في ووتشانغ، مقاطعة هيلونغجيانغ. أرز ووتشانغ العضوي معتمد بثلاث شهادات: علامة النسر، المؤشر الجغرافي، والشهادة العضوية. كل حبة طويلة وشفافة. عند الطهي، يكون الأرز طرياً وعطرياً وحلواً قليلاً مع قوام مطاطي لطيف. التعبئة المفرغة تحافظ على النضارة من الحقل إلى مائدتك. بدون تلميع أو شمع أو إضافات — أرز طبيعي نقي.",
+      "keywords": [
+        "أرز ووتشانغ العضوي",
+        "أرز صيني فاخر بالجملة",
+        "تصدير أرز صيني",
+        "مورد أرز هيلونغجيانغ",
+        "أرز عضوي بالجملة"
       ]
     }
   }

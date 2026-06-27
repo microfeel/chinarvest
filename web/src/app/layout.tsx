@@ -2,20 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import siteConfig from "@/lib/site";
+import siteConfig, { LOCALE_DIRS, type Locale } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: {
-    default: siteConfig.fullName,
-    template: `%s | ${siteConfig.name}`,
-  },
-  description: siteConfig.description,
-  openGraph: {
-    title: siteConfig.fullName,
-    description: siteConfig.description,
-    locale: siteConfig.locale,
-    type: "website",
-  },
+  title: "ChinaRvest — China Agricultural Products Supplier",
+  description: "ChinaRvest connects global buyers with premium Chinese agricultural products.",
 };
 
 export default function RootLayout({
@@ -24,9 +15,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" dir="ltr">
       <body className="min-h-screen bg-white text-gray-900 flex flex-col">
-        <Header />
+        <Header currentLocale="en" />
         <main className="flex-1">{children}</main>
         <Footer />
       </body>

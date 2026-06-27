@@ -4,14 +4,14 @@
   "category": "beans",
   "subCategory": "peanuts",
   "brand": "Nantong Haotong",
-  "supplier": "南通皓通国际贸易有限公司",
-  "origin": "山东/青岛",
+  "supplier": "Nantong Haotong International Trade Co., Ltd",
+  "origin": "Shandong, Qingdao",
   "certifications": [],
   "specs": {
-    "weight": "2800箱 × 20kg (估)",
-    "shelfLife": "12个月",
-    "packaging": "纸箱",
-    "grade": "出口级"
+    "weight": "2,800 cartons × 20kg (est.)",
+    "shelfLife": "12 months",
+    "packaging": "Carton",
+    "grade": "Export Grade"
   },
   "pricing": {
     "currency": "USD",
@@ -58,6 +58,30 @@
         "china peanut supplier",
         "blanched peanut wholesale",
         "qingdao peanut export"
+      ]
+    },
+    "id": {
+      "name": "Kacang Tanah Blanched China — Grade Ekspor",
+      "shortDescription": "Produk ekspor terverifikasi: 2.800 karton dikirim ke Suriah. Rantai pasokan terpercaya dengan dokumentasi ekspor lengkap.",
+      "description": "Kacang tanah blanched China — produk ekspor terverifikasi dengan catatan pengiriman lengkap (2.800 karton, Qingdao ke Lattakia, Suriah). Kualitas Grade A dengan ketertelusuran penuh. Kacang tanah blanched kami dipilih secara selektif, dikupas secara mekanis, dan disortir untuk ukuran dan warna yang seragam. Cocok untuk pengolahan makanan, manufaktur camilan, dan konsumsi langsung. Dokumentasi ekspor lengkap tersedia: sertifikat fitosanitasi, polis asuransi (All Risks), bill of lading, dan packing list.",
+      "keywords": [
+        "kacang tanah blanched china",
+        "supplier kacang tanah china",
+        "ekspor kacang tanah grosir",
+        "kacang tanah kupas china",
+        "importir kacang tanah"
+      ]
+    },
+    "ar": {
+      "name": "فول سوداني مقشر صيني — درجة تصدير",
+      "shortDescription": "منتج تصدير موثق: 2800 كرتون تم شحنها إلى سوريا. سلسلة توريد موثوقة مع وثائق تصدير كاملة.",
+      "description": "فول سوداني مقشر صيني — منتج تصدير موثق بسجل شحن كامل (2800 كرتون، من تشينغداو إلى اللاذقية، سوريا). جودة درجة أولى مع إمكانية تتبع كاملة. يتم اختيار الفول السوداني المقشر بعناية، وتقشيره آلياً، وفرزه للحجم واللون الموحد. مناسب لتجهيز الأغذية، وتصنيع الوجبات الخفيفة، والاستهلاك المباشر. وثائق التصدير الكاملة متوفرة: شهادة الصحة النباتية، وثيقة التأمين (جميع المخاطر)، بوليصة الشحن، وقائمة التعبئة.",
+      "keywords": [
+        "فول سوداني مقشر صيني",
+        "مورد فول سوداني الصين",
+        "تصدير فول سوداني بالجملة",
+        "فول سوداني مقشر",
+        "مستورد فول سوداني"
       ]
     }
   }

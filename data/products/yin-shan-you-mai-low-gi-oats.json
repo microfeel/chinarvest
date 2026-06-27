@@ -3,18 +3,18 @@
   "slug": "low-gi-oatmeal-300g",
   "category": "oats",
   "subCategory": "low-gi",
-  "brand": "阴山优麦",
-  "supplier": "阴山优麦",
-  "origin": "内蒙古·乌兰察布",
+  "brand": "YinShanYouMai",
+  "supplier": "YinShanYouMai",
+  "origin": "Inner Mongolia, Ulanqab",
   "certifications": [
     "Low GI Certified",
     "Organic"
   ],
   "specs": {
-    "weight": "300g (30g×10条)",
-    "shelfLife": "12个月",
-    "packaging": "独立条装/盒",
-    "feature": "低GI，GI值<55"
+    "weight": "300g (30g × 10 sachets)",
+    "shelfLife": "12 months",
+    "packaging": "Individual sachets/box",
+    "feature": "Low GI, GI value &lt;55"
   },
   "pricing": {
     "currency": "USD",
@@ -59,6 +59,30 @@
         "inner mongolia oats export",
         "diabetic friendly oatmeal bulk",
         "beta glucan oatmeal supplier"
+      ]
+    },
+    "id": {
+      "name": "YinShanYouMai Oatmeal GI Rendah 300g",
+      "shortDescription": "Oatmeal indeks glikemik rendah dari Mongolia Dalam — ramah diabetes, tinggi serat.",
+      "description": "YinShanYouMai Oatmeal GI Rendah adalah produk oat rendah GI perintis dunia, bersertifikasi dengan nilai GI di bawah 55. Berasal dari dataran tinggi Mongolia Dalam (lintang 42°U), salah satu wilayah penghasil oat terbaik di dunia. Setiap penyajian menyediakan 80% NRV serat pangan dan 20.8g β-glukan per kotak. Nol gula tambahan, nol natrium, nol kolesterol, nol lemak trans. Persiapan instan — cukup tambahkan air panas untuk oatmeal creamy dalam hitungan detik.",
+      "keywords": [
+        "oatmeal gi rendah china",
+        "oat china grosir",
+        "oat mongolia dalam ekspor",
+        "oatmeal ramah diabetes curah",
+        "supplier beta glukan oatmeal"
+      ]
+    },
+    "ar": {
+      "name": "YinShanYouMai شوفان منخفض المؤشر الجلايسيمي 300 جرام",
+      "shortDescription": "شوفان منخفض المؤشر الجلايسيمي من منغوليا الداخلية — مناسب لمرضى السكري، غني بالألياف.",
+      "description": "شوفان منخفض المؤشر الجلايسيمي من YinShanYouMai، أول منتج شوفان منخفض GI في العالم، معتمد بقيمة GI أقل من 55. مصدره هضبة منغوليا الداخلية (خط عرض 42°شمالاً)، واحدة من أفضل مناطق زراعة الشوفان في العالم. كل حصة توفر 80% من القيمة المرجعية اليومية للألياف الغذائية و20.8 جرام من بيتا-جلوكان لكل علبة. بدون سكر مضاف، بدون صوديوم، بدون كوليسترول، بدون دهون متحولة. تحضير فوري — أضف الماء الساخن فقط.",
+      "keywords": [
+        "شوفان منخفض المؤشر الجلايسيمي الصين",
+        "شوفان صيني بالجملة",
+        "تصدير شوفان منغوليا الداخلية",
+        "شوفان لمرضى السكري بالجملة",
+        "مورد بيتا جلوكان شوفان"
       ]
     }
   }

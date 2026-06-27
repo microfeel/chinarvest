@@ -30,21 +30,20 @@ for (const p of products) {
   cats[p.category] = (cats[p.category] || 0) + 1;
 }
 
-// Generate sitemap
-const pages = [
-  { url: "", priority: "1.0", freq: "weekly" },
-  { url: "/products", priority: "0.9", freq: "weekly" },
-  { url: "/about", priority: "0.7", freq: "monthly" },
-  { url: "/faq", priority: "0.8", freq: "monthly" },
-  { url: "/contact", priority: "0.5", freq: "monthly" },
+// Generate sitemap — include all 3 locales
+const staticPages = [
+  "", "products", "about", "faq", "contact",
 ];
 
-for (const p of products) {
-  pages.push({
-    url: `/products/${p.category}/${p.slug}`,
-    priority: "0.8",
-    freq: "monthly",
-  });
+const pages = [];
+for (const locale of ["en", "id", "ar"]) {
+  for (const sp of staticPages) {
+    const url = sp ? `/${locale}/${sp}` : `/${locale}`;
+    pages.push({ url, priority: sp === "" ? "1.0" : sp === "products" ? "0.9" : "0.7", freq: "weekly" });
+  }
+  for (const p of products) {
+    pages.push({ url: `/${locale}/products/${p.category}/${p.slug}`, priority: "0.8", freq: "monthly" });
+  }
 }
 
 const urls = pages
