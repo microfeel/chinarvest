@@ -9,9 +9,7 @@ const siteConfig = {
   url: dev ? "http://localhost:3000" : "https://chinarvest.com",
   locale: "en_US",
   email: "hello@chinarvest.com",
-  social: {
-    whatsapp: "+86...",
-  },
+  salesEmail: "sales@chinarvest.com",
 };
 
 export default siteConfig;

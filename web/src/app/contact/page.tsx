@@ -22,21 +22,30 @@ export default function ContactPage() {
             Send an Inquiry
           </h2>
           <div className="space-y-4">
-            <p className="text-gray-600">
-              <strong>Email:</strong>
-              <br />
-              <a
-                href={`mailto:${siteConfig.email}`}
-                className="text-green-600 hover:text-green-700"
-              >
-                {siteConfig.email}
-              </a>
-            </p>
-            <p className="text-gray-600 text-sm">
-              Please include your company name, country, products of interest,
-              and estimated quantity. This helps us respond with the most
-              relevant pricing and product information.
-            </p>
+                <p className="text-gray-600">
+                  <strong>General Inquiries:</strong>
+                  <br />
+                  <a
+                    href={`mailto:${siteConfig.email}`}
+                    className="text-green-600 hover:text-green-700"
+                  >
+                    {siteConfig.email}
+                  </a>
+                </p>
+                <p className="text-gray-600">
+                  <strong>Sales & Orders:</strong>
+                  <br />
+                  <a
+                    href={`mailto:${siteConfig.salesEmail}`}
+                    className="text-green-600 hover:text-green-700"
+                  >
+                    {siteConfig.salesEmail}
+                  </a>
+                </p>
+                <p className="text-gray-600 text-sm">
+                  We typically respond within 24 hours. Please include your company
+                  name, country, products of interest, and estimated quantity.
+                </p>
           </div>
         </div>
 
