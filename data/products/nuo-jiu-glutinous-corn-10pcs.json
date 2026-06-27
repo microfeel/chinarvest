@@ -1,0 +1,54 @@
+{
+  "id": "nuo-jiu-glutinous-corn-10pcs",
+  "slug": "nuo-jiu-glutinous-corn-10pcs",
+  "category": "corn",
+  "subCategory": "corn",
+  "brand": "Nuojiu",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Suihua",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Nuojiu Fresh Glutinous Corn 10pcs",
+      "shortDescription": "Nuojiu Fresh Glutinous Corn 10pcs — fresh sweet corn from Heilongjiang. Naturally sweet, vacuum-sealed.",
+      "description": "Nuojiu Fresh Glutinous Corn 10pcs is a premium Chinese agricultural product sourced from Heilongjiang, Suihua. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "nuo jiu glutinous corn 10pcs",
+        "china wholesale",
+        "corn",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Nuojiu Fresh Glutinous Corn 10pcs",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Suihua. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Suihua. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "nuo jiu glutinous corn 10pcs",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Nuojiu Fresh Glutinous Corn 10pcs",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Suihua. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Suihua. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "nuo jiu glutinous corn 10pcs",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

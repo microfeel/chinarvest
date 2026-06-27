@@ -1,0 +1,54 @@
+{
+  "id": "zheng-xiao-shuang-wa-chicken-feet-500g",
+  "slug": "zheng-xiao-shuang-wa-chicken-feet-500g",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "ZhengXiaoShuang",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Shandong, Heze",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "ZhengXiaoShuang Wa-Style Chicken Feet 500g",
+      "shortDescription": "ZhengXiaoShuang Wa-Style Chicken Feet 500g — ready-to-eat, vacuum-packed. Popular in Asian markets.",
+      "description": "ZhengXiaoShuang Wa-Style Chicken Feet 500g is a premium Chinese agricultural product sourced from Shandong, Heze. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "zheng xiao shuang wa chicken feet 500g",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "ZhengXiaoShuang Wa-Style Chicken Feet 500g",
+      "shortDescription": "Produk pertanian China premium dari Shandong, Heze. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Shandong, Heze. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "zheng xiao shuang wa chicken feet 500g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "ZhengXiaoShuang Wa-Style Chicken Feet 500g",
+      "shortDescription": "منتج زراعي صيني فاخر من Shandong, Heze. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Shandong, Heze. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "zheng xiao shuang wa chicken feet 500g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "yellow-rice-flour-blend-2.5kg",
+  "slug": "yellow-rice-flour-blend-2.5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "Yellow",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Yellow Rice Flour Blend 2.5kg",
+      "shortDescription": "Yellow Rice Flour Blend 2.5kg — premium flour from Heilongjiang. Quality baking ingredient.",
+      "description": "Yellow Rice Flour Blend 2.5kg is a premium Chinese agricultural product sourced from Heilongjiang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yellow rice flour blend 2.5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Yellow Rice Flour Blend 2.5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yellow rice flour blend 2.5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Yellow Rice Flour Blend 2.5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yellow rice flour blend 2.5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

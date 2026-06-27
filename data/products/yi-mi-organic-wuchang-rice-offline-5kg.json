@@ -1,0 +1,56 @@
+{
+  "id": "yi-mi-organic-wuchang-rice-offline-5kg",
+  "slug": "yi-mi-organic-wuchang-rice-offline-5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "YiMi",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Wuchang",
+  "certifications": [
+    "Organic"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YiMi Organic Wuchang Rice (Offline) 5kg",
+      "shortDescription": "YiMi Organic Wuchang Rice (Offline) 5kg — premium rice from Wuchang, Heilongjiang. China's most famous rice variety.",
+      "description": "YiMi Organic Wuchang Rice (Offline) 5kg is a premium Chinese agricultural product sourced from Heilongjiang, Wuchang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yi mi organic wuchang rice offline 5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YiMi Organic Wuchang Rice (Offline) 5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Wuchang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Wuchang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yi mi organic wuchang rice offline 5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YiMi Organic Wuchang Rice (Offline) 5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Wuchang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Wuchang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yi mi organic wuchang rice offline 5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

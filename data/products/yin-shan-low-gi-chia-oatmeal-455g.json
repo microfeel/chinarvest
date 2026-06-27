@@ -1,0 +1,56 @@
+{
+  "id": "yin-shan-low-gi-chia-oatmeal-455g",
+  "slug": "yin-shan-low-gi-chia-oatmeal-455g",
+  "category": "oats",
+  "subCategory": "oats",
+  "brand": "YinShanYouMai",
+  "supplier": "阴山优麦",
+  "origin": "Inner Mongolia, Ulanqab",
+  "certifications": [
+    "Low GI Certified"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YinShanYouMai Low GI Chia Oatmeal 455g",
+      "shortDescription": "YinShanYouMai Low GI Chia Oatmeal 455g — premium oatmeal from Inner Mongolia. Healthy and nutritious.",
+      "description": "YinShanYouMai Low GI Chia Oatmeal 455g is a premium Chinese agricultural product sourced from Inner Mongolia, Ulanqab. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yin shan low gi chia oatmeal 455g",
+        "china wholesale",
+        "oats",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YinShanYouMai Low GI Chia Oatmeal 455g",
+      "shortDescription": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yin shan low gi chia oatmeal 455g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YinShanYouMai Low GI Chia Oatmeal 455g",
+      "shortDescription": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yin shan low gi chia oatmeal 455g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "black-glutinous-corn-10pcs",
+  "slug": "black-glutinous-corn-10pcs",
+  "category": "corn",
+  "subCategory": "corn",
+  "brand": "Black",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Zhaodong",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Black Glutinous Corn 10pcs",
+      "shortDescription": "Black Glutinous Corn 10pcs — fresh sweet corn from Heilongjiang. Naturally sweet, vacuum-sealed.",
+      "description": "Black Glutinous Corn 10pcs is a premium Chinese agricultural product sourced from Heilongjiang, Zhaodong. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "black glutinous corn 10pcs",
+        "china wholesale",
+        "corn",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Black Glutinous Corn 10pcs",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Zhaodong. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Zhaodong. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "black glutinous corn 10pcs",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Black Glutinous Corn 10pcs",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Zhaodong. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Zhaodong. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "black glutinous corn 10pcs",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

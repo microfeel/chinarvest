@@ -1,0 +1,56 @@
+{
+  "id": "shi-xiao-er-organic-millet-450g",
+  "slug": "shi-xiao-er-organic-millet-450g",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "ShiXiaoEr",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Zhaodong",
+  "certifications": [
+    "Organic"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "ShiXiaoEr Organic Millet 450g",
+      "shortDescription": "ShiXiaoEr Organic Millet 450g — premium millet from Heilongjiang. Rich in nutrients, easy to digest.",
+      "description": "ShiXiaoEr Organic Millet 450g is a premium Chinese agricultural product sourced from Heilongjiang, Zhaodong. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "shi xiao er organic millet 450g",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "ShiXiaoEr Organic Millet 450g",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Zhaodong. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Zhaodong. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "shi xiao er organic millet 450g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "ShiXiaoEr Organic Millet 450g",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Zhaodong. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Zhaodong. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "shi xiao er organic millet 450g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

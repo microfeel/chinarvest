@@ -1,0 +1,54 @@
+{
+  "id": "shi-xiao-er-pearl-rice-broken-5kg",
+  "slug": "shi-xiao-er-pearl-rice-broken-5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "ShiXiaoEr",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Jiamusi",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "ShiXiaoEr Round Pearl Rice (30% Broken) 5kg",
+      "shortDescription": "ShiXiaoEr Round Pearl Rice (30% Broken) 5kg — premium Chinese agricultural product. Quality guaranteed for wholesale.",
+      "description": "ShiXiaoEr Round Pearl Rice (30% Broken) 5kg is a premium Chinese agricultural product sourced from Heilongjiang, Jiamusi. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "shi xiao er pearl rice broken 5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "ShiXiaoEr Round Pearl Rice (30% Broken) 5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Jiamusi. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Jiamusi. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "shi xiao er pearl rice broken 5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "ShiXiaoEr Round Pearl Rice (30% Broken) 5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Jiamusi. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Jiamusi. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "shi xiao er pearl rice broken 5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

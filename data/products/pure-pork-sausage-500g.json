@@ -1,0 +1,54 @@
+{
+  "id": "pure-pork-sausage-500g",
+  "slug": "pure-pork-sausage-500g",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "Pure",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Harbin",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Pure Pork Sausage 500g",
+      "shortDescription": "Pure Pork Sausage 500g — traditional northeast Chinese smoked sausage. Ready-to-eat.",
+      "description": "Pure Pork Sausage 500g is a premium Chinese agricultural product sourced from Heilongjiang, Harbin. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "pure pork sausage 500g",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Pure Pork Sausage 500g",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Harbin. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Harbin. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "pure pork sausage 500g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Pure Pork Sausage 500g",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Harbin. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Harbin. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "pure pork sausage 500g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

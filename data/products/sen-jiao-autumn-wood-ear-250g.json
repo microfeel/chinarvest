@@ -1,0 +1,54 @@
+{
+  "id": "sen-jiao-autumn-wood-ear-250g",
+  "slug": "sen-jiao-autumn-wood-ear-250g",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "SenJiao",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Yichun",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "SenJiao Autumn Wood Ear Mushrooms 250g",
+      "shortDescription": "SenJiao Autumn Wood Ear Mushrooms 250g — dried autumn wood ear mushrooms from Heilongjiang.",
+      "description": "SenJiao Autumn Wood Ear Mushrooms 250g is a premium Chinese agricultural product sourced from Heilongjiang, Yichun. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "sen jiao autumn wood ear 250g",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "SenJiao Autumn Wood Ear Mushrooms 250g",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Yichun. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Yichun. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "sen jiao autumn wood ear 250g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "SenJiao Autumn Wood Ear Mushrooms 250g",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Yichun. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Yichun. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "sen jiao autumn wood ear 250g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "bei-hai-sea-duck-eggs-6pcs",
+  "slug": "bei-hai-sea-duck-eggs-6pcs",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "Beihai",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Guangxi, Beihai",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Beihai Sea Duck Eggs 6pcs",
+      "shortDescription": "Beihai Sea Duck Eggs 6pcs — preserved sea duck eggs from Beihai. Premium quality.",
+      "description": "Beihai Sea Duck Eggs 6pcs is a premium Chinese agricultural product sourced from Guangxi, Beihai. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "bei hai sea duck eggs 6pcs",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Beihai Sea Duck Eggs 6pcs",
+      "shortDescription": "Produk pertanian China premium dari Guangxi, Beihai. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Guangxi, Beihai. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "bei hai sea duck eggs 6pcs",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Beihai Sea Duck Eggs 6pcs",
+      "shortDescription": "منتج زراعي صيني فاخر من Guangxi, Beihai. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Guangxi, Beihai. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "bei hai sea duck eggs 6pcs",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

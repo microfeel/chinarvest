@@ -1,0 +1,54 @@
+{
+  "id": "roast-goose-half",
+  "slug": "roast-goose-half",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "Roast",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Harbin",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Roast Goose (Half)",
+      "shortDescription": "Roast Goose (Half) — traditional northeast Chinese roast goose. Ready-to-eat.",
+      "description": "Roast Goose (Half) is a premium Chinese agricultural product sourced from Heilongjiang, Harbin. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "roast goose half",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Roast Goose (Half)",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Harbin. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Harbin. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "roast goose half",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Roast Goose (Half)",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Harbin. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Harbin. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "roast goose half",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "corn-flour-2.5kg",
+  "slug": "corn-flour-2.5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "Corn",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Corn Flour 2.5kg",
+      "shortDescription": "Corn Flour 2.5kg — fresh sweet corn from Heilongjiang. Naturally sweet, vacuum-sealed.",
+      "description": "Corn Flour 2.5kg is a premium Chinese agricultural product sourced from Heilongjiang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "corn flour 2.5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Corn Flour 2.5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "corn flour 2.5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Corn Flour 2.5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "corn flour 2.5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

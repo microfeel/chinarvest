@@ -42,9 +42,11 @@ export function getAllCategories(): { id: string; name: string; count: number }[
 
 const CATEGORY_LABELS: Record<string, string> = {
   rice: "Rice & Grains",
+  grains: "Rice & Grains",
   corn: "Fresh Corn",
   oats: "Oats & Cereals",
   beans: "Beans & Pulses",
+  specialty: "Specialty Foods",
   meat: "Processed Meat",
   condiments: "Sauces & Condiments",
   forest: "Forest Products",

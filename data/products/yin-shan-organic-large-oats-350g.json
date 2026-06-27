@@ -1,0 +1,56 @@
+{
+  "id": "yin-shan-organic-large-oats-350g",
+  "slug": "yin-shan-organic-large-oats-350g",
+  "category": "oats",
+  "subCategory": "oats",
+  "brand": "YinShanYouMai",
+  "supplier": "阴山优麦",
+  "origin": "Inner Mongolia, Ulanqab",
+  "certifications": [
+    "Organic"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YinShanYouMai Organic Large Flake Oats 350g",
+      "shortDescription": "YinShanYouMai Organic Large Flake Oats 350g — premium oatmeal from Inner Mongolia. Healthy and nutritious.",
+      "description": "YinShanYouMai Organic Large Flake Oats 350g is a premium Chinese agricultural product sourced from Inner Mongolia, Ulanqab. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yin shan organic large oats 350g",
+        "china wholesale",
+        "oats",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YinShanYouMai Organic Large Flake Oats 350g",
+      "shortDescription": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yin shan organic large oats 350g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YinShanYouMai Organic Large Flake Oats 350g",
+      "shortDescription": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yin shan organic large oats 350g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

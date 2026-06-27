@@ -1,0 +1,54 @@
+{
+  "id": "cold-noodles-kimchi-combo",
+  "slug": "cold-noodles-kimchi-combo",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "AnSheZhang",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Liaoning, Shenyang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "AnSheZhang Cold Noodles + Kimchi Combo",
+      "shortDescription": "AnSheZhang Cold Noodles + Kimchi Combo — traditional Korean-style cold noodles. Ready-to-cook.",
+      "description": "AnSheZhang Cold Noodles + Kimchi Combo is a premium Chinese agricultural product sourced from Liaoning, Shenyang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "cold noodles kimchi combo",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "AnSheZhang Cold Noodles + Kimchi Combo",
+      "shortDescription": "Produk pertanian China premium dari Liaoning, Shenyang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Liaoning, Shenyang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "cold noodles kimchi combo",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "AnSheZhang Cold Noodles + Kimchi Combo",
+      "shortDescription": "منتج زراعي صيني فاخر من Liaoning, Shenyang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Liaoning, Shenyang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "cold noodles kimchi combo",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

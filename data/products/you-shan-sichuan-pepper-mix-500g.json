@@ -1,0 +1,54 @@
+{
+  "id": "you-shan-sichuan-pepper-mix-500g",
+  "slug": "you-shan-sichuan-pepper-mix-500g",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "YouShanFang",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Shandong, Heze",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YouShanFang Sichuan Pepper Mix 500g",
+      "shortDescription": "YouShanFang Sichuan Pepper Mix 500g — premium Chinese agricultural product. Quality guaranteed for wholesale.",
+      "description": "YouShanFang Sichuan Pepper Mix 500g is a premium Chinese agricultural product sourced from Shandong, Heze. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "you shan sichuan pepper mix 500g",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YouShanFang Sichuan Pepper Mix 500g",
+      "shortDescription": "Produk pertanian China premium dari Shandong, Heze. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Shandong, Heze. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "you shan sichuan pepper mix 500g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YouShanFang Sichuan Pepper Mix 500g",
+      "shortDescription": "منتج زراعي صيني فاخر من Shandong, Heze. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Shandong, Heze. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "you shan sichuan pepper mix 500g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

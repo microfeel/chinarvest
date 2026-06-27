@@ -1,0 +1,54 @@
+{
+  "id": "yuan-sao-chili-beef-sauce-combo",
+  "slug": "yuan-sao-chili-beef-sauce-combo",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "YuanSao",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Daqing",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YuanSao Chili Sauce & Beef Sauce Combo",
+      "shortDescription": "YuanSao Chili Sauce & Beef Sauce Combo — premium Chinese agricultural product. Quality guaranteed for wholesale.",
+      "description": "YuanSao Chili Sauce & Beef Sauce Combo is a premium Chinese agricultural product sourced from Heilongjiang, Daqing. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yuan sao chili beef sauce combo",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YuanSao Chili Sauce & Beef Sauce Combo",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Daqing. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Daqing. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yuan sao chili beef sauce combo",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YuanSao Chili Sauce & Beef Sauce Combo",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Daqing. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Daqing. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yuan sao chili beef sauce combo",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

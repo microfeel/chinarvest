@@ -1,0 +1,54 @@
+{
+  "id": "zhen-dao-wuchang-rice-2.5kg",
+  "slug": "zhen-dao-wuchang-rice-2.5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "ZhenDao",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Wuchang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "ZhenDao Premium Wuchang Rice 2.5kg",
+      "shortDescription": "ZhenDao Premium Wuchang Rice 2.5kg — premium rice from Wuchang, Heilongjiang. China's most famous rice variety.",
+      "description": "ZhenDao Premium Wuchang Rice 2.5kg is a premium Chinese agricultural product sourced from Heilongjiang, Wuchang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "zhen dao wuchang rice 2.5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "ZhenDao Premium Wuchang Rice 2.5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Wuchang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Wuchang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "zhen dao wuchang rice 2.5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "ZhenDao Premium Wuchang Rice 2.5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Wuchang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Wuchang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "zhen dao wuchang rice 2.5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

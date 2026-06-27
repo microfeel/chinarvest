@@ -1,0 +1,56 @@
+{
+  "id": "yin-shan-organic-pure-oats-400g",
+  "slug": "yin-shan-organic-pure-oats-400g",
+  "category": "oats",
+  "subCategory": "oats",
+  "brand": "YinShanYouMai",
+  "supplier": "阴山优麦",
+  "origin": "Inner Mongolia, Ulanqab",
+  "certifications": [
+    "Organic"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "YinShanYouMai Organic Pure Oatmeal 400g",
+      "shortDescription": "YinShanYouMai Organic Pure Oatmeal 400g — premium oatmeal from Inner Mongolia. Healthy and nutritious.",
+      "description": "YinShanYouMai Organic Pure Oatmeal 400g is a premium Chinese agricultural product sourced from Inner Mongolia, Ulanqab. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "yin shan organic pure oats 400g",
+        "china wholesale",
+        "oats",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "YinShanYouMai Organic Pure Oatmeal 400g",
+      "shortDescription": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Inner Mongolia, Ulanqab. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "yin shan organic pure oats 400g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "YinShanYouMai Organic Pure Oatmeal 400g",
+      "shortDescription": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Inner Mongolia, Ulanqab. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "yin shan organic pure oats 400g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

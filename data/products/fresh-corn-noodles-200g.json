@@ -1,0 +1,54 @@
+{
+  "id": "fresh-corn-noodles-200g",
+  "slug": "fresh-corn-noodles-200g",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "Fresh",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Fresh Corn Noodles 200g x10",
+      "shortDescription": "Fresh Corn Noodles 200g x10 — fresh sweet corn from Heilongjiang. Naturally sweet, vacuum-sealed.",
+      "description": "Fresh Corn Noodles 200g x10 is a premium Chinese agricultural product sourced from Heilongjiang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "fresh corn noodles 200g",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Fresh Corn Noodles 200g x10",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "fresh corn noodles 200g",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Fresh Corn Noodles 200g x10",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "fresh corn noodles 200g",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

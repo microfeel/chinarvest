@@ -1,0 +1,54 @@
+{
+  "id": "northeast-sauerkraut-500g-x5",
+  "slug": "northeast-sauerkraut-500g-x5",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "Northeast",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Liaoning, Shenyang",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Northeast Sauerkraut 500g x5",
+      "shortDescription": "Northeast Sauerkraut 500g x5 — traditionally fermented northeast Chinese cabbage.",
+      "description": "Northeast Sauerkraut 500g x5 is a premium Chinese agricultural product sourced from Liaoning, Shenyang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "northeast sauerkraut 500g x5",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Northeast Sauerkraut 500g x5",
+      "shortDescription": "Produk pertanian China premium dari Liaoning, Shenyang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Liaoning, Shenyang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "northeast sauerkraut 500g x5",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Northeast Sauerkraut 500g x5",
+      "shortDescription": "منتج زراعي صيني فاخر من Liaoning, Shenyang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Liaoning, Shenyang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "northeast sauerkraut 500g x5",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

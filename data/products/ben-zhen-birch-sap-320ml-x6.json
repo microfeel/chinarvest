@@ -1,0 +1,54 @@
+{
+  "id": "ben-zhen-birch-sap-320ml-x6",
+  "slug": "ben-zhen-birch-sap-320ml-x6",
+  "category": "specialty",
+  "subCategory": "specialty",
+  "brand": "BenZhen",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Yichun",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "BenZhen Birch Sap 320ml x6",
+      "shortDescription": "BenZhen Birch Sap 320ml x6 — pure birch sap from Yichun. Natural, zero additives.",
+      "description": "BenZhen Birch Sap 320ml x6 is a premium Chinese agricultural product sourced from Heilongjiang, Yichun. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "ben zhen birch sap 320ml x6",
+        "china wholesale",
+        "specialty",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "BenZhen Birch Sap 320ml x6",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Yichun. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Yichun. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "ben zhen birch sap 320ml x6",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "BenZhen Birch Sap 320ml x6",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Yichun. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Yichun. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "ben zhen birch sap 320ml x6",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

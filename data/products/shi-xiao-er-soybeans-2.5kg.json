@@ -1,0 +1,54 @@
+{
+  "id": "shi-xiao-er-soybeans-2.5kg",
+  "slug": "shi-xiao-er-soybeans-2.5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "ShiXiaoEr",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang, Suihua",
+  "certifications": [],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "ShiXiaoEr Northeast Soybeans 2.5kg",
+      "shortDescription": "ShiXiaoEr Northeast Soybeans 2.5kg — non-GMO soybeans from Heilongjiang. Protein-rich, ideal for food processing.",
+      "description": "ShiXiaoEr Northeast Soybeans 2.5kg is a premium Chinese agricultural product sourced from Heilongjiang, Suihua. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "shi xiao er soybeans 2.5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "ShiXiaoEr Northeast Soybeans 2.5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang, Suihua. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang, Suihua. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "shi xiao er soybeans 2.5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "ShiXiaoEr Northeast Soybeans 2.5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang, Suihua. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang, Suihua. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "shi xiao er soybeans 2.5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "organic-kidney-bean-corn-grits-2.5kg",
+  "slug": "organic-kidney-bean-corn-grits-2.5kg",
+  "category": "grains",
+  "subCategory": "grains",
+  "brand": "Organic",
+  "supplier": "谷雨谷物合作社",
+  "origin": "Heilongjiang",
+  "certifications": [
+    "Organic"
+  ],
+  "specs": {
+    "weight": "See product details",
+    "shelfLife": "12 months",
+    "packaging": "Standard"
+  },
+  "export": {
+    "hasExportHistory": false,
+    "destinations": []
+  },
+  "images": {
+    "hero": "/images/products/placeholder.jpg",
+    "gallery": []
+  },
+  "i18n": {
+    "en": {
+      "name": "Organic Kidney Bean & Corn Grits 2.5kg",
+      "shortDescription": "Organic Kidney Bean & Corn Grits 2.5kg — fresh sweet corn from Heilongjiang. Naturally sweet, vacuum-sealed.",
+      "description": "Organic Kidney Bean & Corn Grits 2.5kg is a premium Chinese agricultural product sourced from Heilongjiang. Carefully selected, quality-controlled, and packaged for export. Suitable for wholesale distribution, food service, and retail.",
+      "keywords": [
+        "organic kidney bean corn grits 2.5kg",
+        "china wholesale",
+        "grains",
+        "export"
+      ]
+    },
+    "id": {
+      "name": "Organic Kidney Bean & Corn Grits 2.5kg",
+      "shortDescription": "Produk pertanian China premium dari Heilongjiang. Cocok untuk grosir.",
+      "description": "Produk pertanian China premium dari Heilongjiang. Cocok untuk distribusi grosir dan ekspor.",
+      "keywords": [
+        "organic kidney bean corn grits 2.5kg",
+        "grosir china"
+      ]
+    },
+    "ar": {
+      "name": "Organic Kidney Bean & Corn Grits 2.5kg",
+      "shortDescription": "منتج زراعي صيني فاخر من Heilongjiang. مناسب للبيع بالجملة.",
+      "description": "منتج زراعي صيني فاخر من Heilongjiang. مناسب لتوزيع الجملة والتصدير.",
+      "keywords": [
+        "organic kidney bean corn grits 2.5kg",
+        "الجملة الصين"
+      ]
+    }
+  }
+}
